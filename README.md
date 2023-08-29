@@ -1,6 +1,6 @@
 # Flash Beep Morse
 
-An Android application designed to convert text to morse code and play it using flashlight and sound beeps. For more details and access to the codebase, please visit the [private repository](https://github.com/Akihsi7/Flash_Beep_Morse)
+An Android application designed to convert text to morse code and play it using flashlight and sound beeps. For more details and access to the codebase, please visit the [private repository](https://github.com/Akihsi7/Flash_Beep_Morse).
 
 ## Features
 
